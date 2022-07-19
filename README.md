@@ -1,2 +1,2 @@
 # evote
-online voting system using tkinter and sqlite
+simple voting system using tkinter and sqlite
